@@ -1,6 +1,6 @@
 <div>
   <h2>Prazer, João Pedro!! </h2>
-  <h4>Atualmente consolidando e aprimorando o básico.</h4>
+  <h4>Atualmente estou me aprofundando nos estudos referente ao back-end.</h4>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
