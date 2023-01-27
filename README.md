@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+João+Pedro;I+Graduated+Systems+Development;I'm+22+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+João+Pedro;I+Graduated+Systems+Development;I'm+22+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
 
 <div align="center"><img src="https://img.shields.io/badge/-Skills-%230077B5?style=for-the-badge&color=00008B"></div>
 <div style="display: inline_block" align="center"><br>
