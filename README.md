@@ -12,10 +12,7 @@
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joaopdebem&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&text_color=4682B4&icon_color=00008B&title_color=00008B" alt="João Pedro de Bem github stats" /> 
-  <img width="49%" height="195px" style="margin: 39px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Joaopdebem&bg_color=0d1117&color=9e4c98&line=000058&point=4682B4&area=true&hide_border=true" /> 
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-pedro-debem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
