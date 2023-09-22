@@ -21,16 +21,9 @@
   <a href = "mailto:joaodebem@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 
-<div><img align="center" alt="Language" src="https://img.shields.io/badge/Portuguese-Native-4682B4?&labelColor=00008B"></div>
 <div>
   <h5>
     📖 - Atualmente estou me especializando em C# e .NET, elaborando projetos pessoais e para conhecidos. Tenho dedicado tempo significativo para estudar a parte do      desenvolvimento Back-end e suas tecnologias, comecei com Python buscando automatizar processos e programas pessoais para solucionar pequenos problemas e agora com      C#.
-  </h5>
-</div>
-<div><img align="center" alt="Language" src="https://img.shields.io/badge/English-Learning-4682B4?&labelColor=00008B"></div>
-<div>
-  <h5>
-    📖 - Currently, I'm specializing in C# and .NET, working on personal and known projects. I have dedicated a significant amount of time to studying the Back-end development and its technologies. I started with Python, looking to automate personal processes and programs to solve small problems, and now I am working with C#.
   </h5>
 </div>
 
