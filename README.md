@@ -25,6 +25,10 @@
 <p align="center">
 	<img src="https://spotify-github-profile.vercel.app/api/view?uid=beelzebubdbr&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=00008b&bar_color_cover=false" />
 </p>
+<details align="center">
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/beelzebubdbr?si=a027fa314e0b4e18"><img src="https://spotify-recently-played-readme.vercel.app/api?user=beelzebubdbr&count=5" alt="Spotify recently played"></a>
+</details>
 <div>
   <h5>
     🏠 - Estou me especializando em C# e .NET, elaborando projetos pessoais, para empresa em que atuo e para conhecidos. Tenho focado bastante no Back-end em realmente me especializar nesse quesito, comecei na programação com 15 anos em um curso técnico introdutório pelo SENAI, onde aprendi o básico de SQL, Javascript e utilizar a Unity, após conclusão, aprofundei um pouco mais da programação web com Javascript, HTML e CSS e Angular, depois fui atrás de automatizar processos, trabalhar com planilhas, criar macros, me deparei com o Python gostei de trabalhar com Python, até encontrar uma dificuldade onde me foi apresentado o C#, onde realmente me encontrei na programação e suas possibilidades, atualmente meu foco está em masterizar o máximo que eu conseguir sobre.
