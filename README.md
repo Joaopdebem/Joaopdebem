@@ -55,6 +55,9 @@
 	</h5>
 </details>
 </div>
+<div>
+	<img align="center" src="https://github.com/Joaopdebem/Joaopdebem/blob/main/images/anyfoolcan.png?raw=true">
+</div>
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
