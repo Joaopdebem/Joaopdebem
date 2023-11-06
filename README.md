@@ -12,7 +12,7 @@
   <img align="center" alt="JP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-pedro-debem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -23,7 +23,7 @@
 
 <div>
   <h5>
-    📖 - Atualmente estou me especializando em C# e .NET, elaborando projetos pessoais e para conhecidos. Tenho dedicado tempo significativo para estudar a parte do      desenvolvimento Back-end e suas tecnologias, comecei com Python buscando automatizar processos e programas pessoais para solucionar pequenos problemas e agora com      C#.
+    📖 - Estou me especializando em C# e .NET, elaborando projetos pessoais, para empresa em que atuo e para conhecidos. Tenho focado bastante no Back-end em realmente me especializar nesse quesito, comecei na programação com 15 anos em um curso técnico introdutório pelo SENAI, onde aprendi o básico de SQL, Javascript e utilizar a Unity, após conclusão, aprofundei um pouco mais da programação web com Javascript, HTML e CSS e Angular, depois fui atrás de automatizar processos, trabalhar com planilhas, criar macros, me deparei com o Python gostei de trabalhar com Python, até encontrar uma dificuldade onde me foi apresentado o C#, onde realmente me encontrei na programação e suas possibilidades, atualmente meu foco está em masterizar o máximo que eu conseguir sobre.
   </h5>
 </div>
 
