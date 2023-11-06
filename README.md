@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+João+Pedro;I+Graduated+Systems+Development;I'm+22+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+João+Pedro;I+Graduated+Systems+Development;I'm+22+years+old;I'm+a+Back-end+Developer;+:%29)](https://git.io/typing-svg)
 
 <div align="center"><img src="https://img.shields.io/badge/-Skills-%230077B5?style=for-the-badge&color=00008B"></div>
 <div style="display: inline_block" align="center"><br>
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/joao-pedro-debem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/joaopdbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jpdebem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaodebem@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jpdebem@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 
 <div>
