@@ -37,7 +37,7 @@
 </div>
 <br>
 <div align="center">
-  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=joaopdebem&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true" alt="Github Stats">
+  <img width="340em" height="171.5em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopdebem&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true" alt="Git Stats">
   <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdebem&hide=javascript,html,css&layout=compact&theme=transparent&hide_border=true" alt="Top Langs">
 </div>
 <br>
