@@ -15,23 +15,6 @@
 <h2>
 	About me
 </h2>
-<details>
-	<summary>
-		🏠 pt-BR
-	</summary>
-	<h5 align="left">
-		Estou me especializando em C# e .NET, elaborando projetos pessoais, para empresa em que atuo e para conhecidos. Tenho focado bastante no Back-end em realmente me especializar nesse quesito, comecei na programação com 15 anos em um curso técnico introdutório pelo SENAI, onde aprendi o básico de SQL, Javascript e utilizar a Unity, após conclusão, aprofundei um pouco mais da programação web com Javascript, HTML e CSS e Angular, depois fui atrás de automatizar processos, trabalhar com planilhas, criar macros, me deparei com o Python gostei de trabalhar com Python, até encontrar uma dificuldade onde me foi apresentado o C#, onde realmente me encontrei na programação e suas possibilidades, atualmente meu foco está em masterizar o máximo que eu conseguir sobre.
-	</h5>
-	
-</details>
-<details>
-	<summary>
-		🌎 en-US
-	</summary>
-	<h5 align="left">
-		I am specializing in C# and .NET, developing personal projects, for the company I work for, and for acquaintances. I have been focusing a lot on Back-end to truly specialize in this aspect. I started programming at the age of 15 in an introductory technical course at SENAI, where I learned the basics of SQL, Javascript, and how to use Unity. After completion, I delved a little deeper into web programming with Javascript, HTML, CSS, and Angular. Then I went after automating processes, working with spreadsheets, creating macros, I came across Python and enjoyed working with Python, until I encountered a difficulty where I was introduced to C#, where I really found myself in programming and its possibilities. Currently, my focus is on mastering as much as I can.
-	</h5>
-</details>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/joaopedro-debem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
